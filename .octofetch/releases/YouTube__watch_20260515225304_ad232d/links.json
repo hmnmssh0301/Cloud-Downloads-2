@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4952",
+  "folder": "YouTube__watch_20260515225304_ad232d",
+  "base_name": "There_Is_Something_Faster_Than_Light_NIk_0AW5hFU_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/hmnmssh0301/Cloud-Downloads-2/releases/tag/co-releases-v1-4952",
+  "files": [
+    {
+      "name": "There_Is_Something_Faster_Than_Light_NIk_0AW5hFU_720p.mp4",
+      "url": "https://github.com/hmnmssh0301/Cloud-Downloads-2/releases/download/co-releases-v1-4952/There_Is_Something_Faster_Than_Light_NIk_0AW5hFU_720p.mp4",
+      "api_url": "https://api.github.com/repos/hmnmssh0301/Cloud-Downloads-2/releases/assets/421381616",
+      "id": 421381616,
+      "size": 165017157,
+      "download_count": 0
+    }
+  ]
+}
